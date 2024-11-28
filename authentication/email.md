@@ -1,0 +1,1 @@
+// TODO: Email authentication using firebase_auth package
